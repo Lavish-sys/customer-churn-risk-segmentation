@@ -136,53 +136,54 @@ Comparison of classification models using ROC-AUC performance.
 
 ---
 
-### Feature Importance Analysis
+## 📊 Visualizations
 
+### ROC Curve Comparison
+Comparison of classification models using ROC-AUC performance.
+
+![Model Comparison](model_comparison.png)
+
+---
+
+### Feature Importance Analysis
 Top features influencing customer churn prediction.
 
-![Feature Importance](Charts/Visualization/feature_importance.png)
+![Feature Importance](Charts/feature_importance.png)
 
 ---
 
 ### Churn Rate by Contract Type
-
 Analyzes churn behaviour across different contract plans.
 
-![Churn Rate by Contract Type](Charts/Visualization/churn_rate_contract_type.png)
+![Churn Rate by Contract Type](Charts/churn_rate_contract_type.png)
 
 ---
 
 ### Risk Tier Distribution
-
 Distribution of customers across churn risk tiers.
 
-![Risk Tier Distribution](Charts/Visualization/risk_tier_distribution.png)
+![Risk Tier Distribution](Charts/risk_tier_distribution.png)
 
 ---
 
 ### Risk Tier Comparison
-
 Comparison of customer characteristics across risk groups.
 
-![Risk Tier Comparison](Charts/Visualization/risk_tier_comparison.png)
+![Risk Tier Comparison](Charts/risk_tier_comparison.png)
 
 ---
 
 ### Contract Distribution by Risk Tier
-
 Shows contract type distribution across customer risk segments.
 
-![Contract Distribution by Risk](Charts/Visualization/contract_distribution_risk.png)
+![Contract Distribution by Risk](Charts/contract_distribution_risk.png)
 
 ---
 
 ### Tenure Distribution Analysis
-
 Distribution of tenure among churned and non-churned customers.
 
-![Tenure Distribution](Charts/Visualization/tenure_distribution.png)
-
----
+![Tenure Distribution](Charts/tenure_distribution.png)
 
 ## 📈 Key Insights
 
