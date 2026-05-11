@@ -209,13 +209,13 @@ Distribution of tenure among churned and non-churned customers.
 customer-churn-risk-segmentation/
 │
 ├── Charts/
-│   └── Visualization/
 │       ├── churn_rate_contract_type.png
+│       ├── tenure_distribution.png
 │       ├── contract_distribution_risk.png
 │       ├── feature_importance.png
 │       ├── risk_tier_comparison.png
 │       ├── risk_tier_distribution.png
-│       └── tenure_distribution.png
+│       
 │
 ├── analysis.ipynb
 ├── model_comparison.png
